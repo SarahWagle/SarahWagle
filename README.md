@@ -37,7 +37,3 @@
 
 ---
 
-<!-- Dark Pink Header Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d63b7a&height=120&section=header&fontAlign=50&fontSize=40&fontColor=ffffff" />
-</p>
